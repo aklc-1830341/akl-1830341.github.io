@@ -1,0 +1,16 @@
+.paragraph-one {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.paragraph-two {
+    font-family: "Courier New", Courier, cursive;
+}
+
+p {
+    color:blue
+}
+
+img {
+    height: 50px;
+    width: 50px;
+}
